@@ -1,1 +1,6 @@
-com\mycompany\mavenproject5\Mavenproject5.class
+com\mycompany\mavenproject5\presentacion\AlumnoForm$1.class
+com\mycompany\mavenproject5\Main.class
+com\mycompany\mavenproject5\datos\Alumno.class
+com\mycompany\mavenproject5\datos\AlumnoDAO.class
+com\mycompany\mavenproject5\negocio\AlumnoService.class
+com\mycompany\mavenproject5\presentacion\AlumnoForm.class
