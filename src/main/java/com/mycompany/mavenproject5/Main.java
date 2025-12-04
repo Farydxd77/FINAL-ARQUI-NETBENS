@@ -19,5 +19,7 @@ public class Main {
             AlumnoForm form = new AlumnoForm();
             form.setVisible(true);
         });
+        
+        System.out.println("Onichan chamo");
     }
 }
