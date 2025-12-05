@@ -1,5 +1,8 @@
-C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\datos\Alumno.java
+C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\datos\TipoProducto.java
+C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\presentacion\ProductoForm.java
 C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\Main.java
-C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\presentacion\AlumnoForm.java
-C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\negocio\AlumnoService.java
-C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\datos\AlumnoDAO.java
+C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\datos\ProductoDAO.java
+C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\negocio\ProductoService.java
+C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\datos\TipoProductoDAO.java
+C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\negocio\TipoProductoService.java
+C:\Users\modos\OneDrive\Documentos\NetBeansProjects\mavenproject5\src\main\java\com\mycompany\mavenproject5\datos\Producto.java

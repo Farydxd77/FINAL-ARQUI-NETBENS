@@ -1,6 +1,8 @@
-com\mycompany\mavenproject5\presentacion\AlumnoForm$1.class
+com\mycompany\mavenproject5\datos\ProductoDAO.class
 com\mycompany\mavenproject5\Main.class
-com\mycompany\mavenproject5\datos\Alumno.class
-com\mycompany\mavenproject5\datos\AlumnoDAO.class
-com\mycompany\mavenproject5\negocio\AlumnoService.class
-com\mycompany\mavenproject5\presentacion\AlumnoForm.class
+com\mycompany\mavenproject5\negocio\TipoProductoService.class
+com\mycompany\mavenproject5\datos\Producto.class
+com\mycompany\mavenproject5\presentacion\ProductoForm.class
+com\mycompany\mavenproject5\datos\TipoProductoDAO.class
+com\mycompany\mavenproject5\datos\TipoProducto.class
+com\mycompany\mavenproject5\negocio\ProductoService.class
